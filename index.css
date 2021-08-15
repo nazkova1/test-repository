@@ -4,11 +4,16 @@ h1 {
     color: aqua;
     background-color: bisque;
 }
+
 h2 {
     color: blue;
     background-color: burlywood;
+    border-radius: 10px;
+    text-align: center;
 }
+
 body {
     height: 100vh;
     background-color: coral;
+
 }
