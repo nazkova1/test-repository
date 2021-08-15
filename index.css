@@ -4,3 +4,11 @@ h1 {
     color: aqua;
     background-color: bisque;
 }
+h2 {
+    color: blue;
+    background-color: burlywood;
+}
+body {
+    height: 100vh;
+    background-color: coral;
+}
